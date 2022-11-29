@@ -40,10 +40,10 @@ apidanz = '92b0a75k6f'
 ckey = 'xPxsaElx'
 global.saweria = "https://saweria.co/xylaa" // saweria donation
 global.groupwea = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" // saweria donation
-global.vcardowner = ['6281338302495', '6285338440313', '6283899515608'] //number
+global.vcardowner = ['6281256866834', '6281269655005', '6283899515608'] //number
 global.allpay = "081338302495" // nomor pertama / first number donate
 global.allpay2 = "085338440313" // nomor ke dua /second number donate
-global.ownername = "⚘xʏʟᴀᴀ♱" //owner
+global.ownername = "RAMBO" //owner
 global.email = "📧 vynx14u@gmail.com" //email
 global.website = "⚙️ Github : RavensVenix" //github name
 global.location = "🌍 Isekai, Taman Hiburan Para Loli, Pemandian Umum Wanita" //location
@@ -52,21 +52,21 @@ global.ig = "👑 Instagram : @ravensvenix" //insta
 global.tg = "💙 Telegram : @vmxone" //telegram
 
 //bot bomdy 
-global.groupbot = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3"
-global.owner = ['6281338302495', '6285338440313', '6283899515608']
-global.ownernomer = "6281338302495" //ur number
-global.ownernomer2 = "6285338440313" // second number
+global.groupbot = "https://chat.whatsap.com/HGn7D3206uC94KKPOIG3f3"
+global.owner = ['6281256866834', '6281269655005', '6283899515608']
+global.ownernomer = "6281256866834" //ur number
+global.ownernomer2 = "6281269655005" // second number
 global.ownernomer3 = "6283899515608" // stfu
-global.ownertag = '6281338302495', '6285338440313', '6283899515608' //ur tag number
+global.ownertag = '6281269655005', '6281256866834', '6283899515608' //ur tag number
 global.botname = '☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //ur website to be displayed
+global.linkz = "https://chat.watsap.com/HGn7D3206uC94KKPOIG3f3" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whaapp.com/HGn7D3206uC94KKPOIG3f3" //ur website to be displayed
 global.botscript = 'https://github.com/RavensVenix/elainav6' //script link
 global.reactmoji = "🦈" //ur menu react emoji
 global.themeemoji = "🦈" //ur theme emoji
-global.packname = "☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
-global.author = "☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜" //ur sticker watermark author
-global.wm = "☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜" //ur watermark
+global.packname = "RANKHOST\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
+global.author = "RANKHOST𒆜" //ur sticker watermark author
+global.wm = "RANKHOST" //ur watermark
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur thumb pic
